@@ -5,4 +5,4 @@ Create a program to help users manage their daily tasks. For example, users shou
 ● View all tasks and their status (e.g., Pending, Done).\
 ● Mark tasks as complete or delete them when no longer needed.\
 ● Display tasks sorted by priority or due date.\
-● Save task data to a file for later us.\
+● Save task data to a file for later us.
